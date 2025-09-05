@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://HashHash2.github.io/rte-y-comunicacion./sitemap.xml

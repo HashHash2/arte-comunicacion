@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Arte y comunicación",
+    "description": "",
+    "home_page_url": "https://HashHash2.github.io/rte-y-comunicacion.",
+    "feed_url": "https://HashHash2.github.io/rte-y-comunicacion./feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Hash"
+    },
+    "items": [
+        {
+            "id": "https://HashHash2.github.io/rte-y-comunicacion./composicion-visual.html",
+            "url": "https://HashHash2.github.io/rte-y-comunicacion./composicion-visual.html",
+            "title": "Composición visual",
+            "summary": "Composición visual en inkscape :)",
+            "content_html": "<p>Composición visual en inkscape :)<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://HashHash2.github.io/rte-y-comunicacion./media/posts/1/GEuTZnZXYAAyTkC.jpg\" alt=\"\" width=\"739\" height=\"415\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://HashHash2.github.io/rte-y-comunicacion./media/posts/1/responsive/GEuTZnZXYAAyTkC-xs.jpg 640w ,https://HashHash2.github.io/rte-y-comunicacion./media/posts/1/responsive/GEuTZnZXYAAyTkC-sm.jpg 768w ,https://HashHash2.github.io/rte-y-comunicacion./media/posts/1/responsive/GEuTZnZXYAAyTkC-md.jpg 1024w ,https://HashHash2.github.io/rte-y-comunicacion./media/posts/1/responsive/GEuTZnZXYAAyTkC-lg.jpg 1366w ,https://HashHash2.github.io/rte-y-comunicacion./media/posts/1/responsive/GEuTZnZXYAAyTkC-xl.jpg 1600w ,https://HashHash2.github.io/rte-y-comunicacion./media/posts/1/responsive/GEuTZnZXYAAyTkC-2xl.jpg 1920w\"></figure>",
+            "author": {
+                "name": "Hash"
+            },
+            "tags": [
+                   "composición visual"
+            ],
+            "date_published": "2025-09-03T21:22:28-05:00",
+            "date_modified": "2025-09-03T21:51:21-05:00"
+        }
+    ]
+}
